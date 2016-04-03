@@ -1,0 +1,20 @@
+{
+  "name": "hain-plugin-torrent",
+  "version": "1.0.0",
+  "description": "Hain plugin to search torrents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hain0"
+  ],
+  "author": "Welkson Ramos <welksonr@hotmail.com>",
+  "license": "MIT",
+  "hain": {
+    "prefix": "/torrent",
+    "usage": "/torrent something",
+    "icon": "#fa fa-download",
+    "redirect": "/torrent"
+  }
+}
