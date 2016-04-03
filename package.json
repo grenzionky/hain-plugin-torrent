@@ -16,5 +16,13 @@
     "usage": "/torrent something",
     "icon": "#fa fa-download",
     "redirect": "/torrent"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welksonramos/hain-plugin-torrent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/welksonramos/hain-plugin-torrent/issues"
+  },
+  "homepage": "https://github.com/welksonramos/hain-plugin-torrent#readme"
 }
