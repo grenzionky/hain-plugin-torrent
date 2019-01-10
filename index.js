@@ -4,17 +4,9 @@ module.exports = (pluginContext) =>{
 	const shell = pluginContext.shell;//
 	const sites = [
 	{
-		title: "The Pirate Bay",
-		slug: "thepiratebay",
-		url: "https://thepiratebay.se/search/"
-	}, {
-		title: "Kickass Torrents",
-		slug: "Kickass",
-		url: "https://kat.cr/usearch/"
-	}, {
 		title: "Torrentz",
 		slug: "torrentz",
-		url: "http://www.torrentz.eu/search?q="
+		url: "http://www.torrentz2.eu/search?f="
 	}
 	];
 
